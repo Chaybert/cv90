@@ -1,0 +1,78 @@
+body{
+	background-image: url("../Images/2.jpg");
+}
+h1{
+	color: violet;
+	
+}
+h1{
+	font-size: 50pt;
+	text-align: center;
+}
+h2{
+	color:  darkcyan;
+	font-size: 50pt;
+}
+p{	
+	color: darkcyan; 
+	font-size: 35pt;
+
+}
+h3{
+	color: darkcyan;
+	font-size: 60px;   
+
+}
+table{
+	border-color:#009DAE;
+	border-width: 10px 10px 10px 10px;
+	 width: 50%;
+	 text-align: center;
+}
+td{
+    border-color:#9C19E0;
+	border-width: 5px 5px 5px 5px;
+	font-weight: bold;
+	font-size: 40px;
+}
+li{
+	font-size: 50px;
+}
+a{
+	font-size: 60px;
+	color: darkcyan;
+}
+th{
+	font-size: 40px;
+}
+form{
+	text-align: center;
+	font-size: 40px;
+  border: 20px solid pink;
+  padding: 40px;
+  margin: 200px;
+}
+input{
+	font-size: 30px;
+	background-color:rgba(255,0,0,0.3);
+	width: 500px;
+  object-fit: contain;
+}
+button{
+	font-size: 30px;
+	background-color:rgba(255,0,0,0.3);
+	width: 500px;
+  object-fit: contain;
+}
+<body>
+<footer class="w3-container w3-padding-64 w3-center w3-black w3-xlarge">
+  <a href="#"><i class="fa fa-facebook-official"></i></a>
+  <a href="#"><i class="fa fa-pinterest-p"></i></a>
+  <a href="#"><i class="fa fa-twitter"></i></a>
+  <a href="#"><i class="fa fa-flickr"></i></a>
+  <a href="#"><i class="fa fa-linkedin"></i></a>
+  <p class="w3-medium">
+  Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>
+  </p>
+</footer>
+</body>
